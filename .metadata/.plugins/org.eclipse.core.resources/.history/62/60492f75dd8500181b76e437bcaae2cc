@@ -1,0 +1,5 @@
+package com.cavalcantewjr.cursomc.repositories;
+
+public interface CategoriaRepository {
+
+}

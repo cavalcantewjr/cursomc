@@ -1,0 +1,12 @@
+package repositories;
+
+import org.springframework.data.jpa.repository.support.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+import com.cavalcantewjr.cursomc.domain.Categoria;
+
+@Repository
+public class CategoriaRepository extends JpaRepository<Categoria, Integer>{
+	
+
+}
